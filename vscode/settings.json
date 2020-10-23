@@ -1,0 +1,20 @@
+{
+    "editor.fontSize": 21,
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontSize": 18,
+    "git.confirmSync": false,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "Victor Mono, Bold",
+    "workbench.sideBar.location": "right",
+    "terminal.integrated.rendererType": "dom",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vs-nomo-dark",
+    "workbench.colorTheme": "Mayukai Mono",
+    "editor.fontWeight": 600
+}
