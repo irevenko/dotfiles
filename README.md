@@ -3,6 +3,13 @@
 Welcome to my setup 👋🏼 <br>
 <strong>Dumb Fact</strong>: I use Light Theme when the sun is shining. Otherwise i use Dark Theme
 
+# Preview 🔍
+<h2>Desktop</h2>
+<img src="https://i.imgur.com/ynrdBCJ.png">
+<h2>Terminal</h2>
+<img src="https://i.imgur.com/63IxGRV.png">
+<h2>VSCode</h2>
+
 # Linux Config 🐧🎨
 
 <strong>Distro</strong>: Fedora <br/>
@@ -53,7 +60,7 @@ Welcome to my setup 👋🏼 <br>
 # ToDo
 
 - Replace ? with actual things
-- Add vim config
+- Add vim config (update vscode)
 - More info about setup
 - Add Desktop preview
 - Add aliases (git, npm)
