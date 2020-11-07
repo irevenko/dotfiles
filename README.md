@@ -4,11 +4,12 @@ Welcome to my setup 👋🏼 <br>
 <strong>Dumb Fact</strong>: I use Light Theme when the sun is shining. Otherwise i use Dark Theme
 
 # Preview 🔍
-<h2>Desktop</h2>
+<h2>Desktop 📸</h2>
 <img src="https://i.imgur.com/ynrdBCJ.png">
-<h2>Terminal</h2>
+<h2>Terminal 🖥</h2>
 <img src="https://i.imgur.com/63IxGRV.png">
-<h2>VSCode</h2>
+<h2>VSCode 📝</h2>
+<img src="https://imgur.com/TJKBYxW">
 
 # Linux Config 🐧🎨
 
